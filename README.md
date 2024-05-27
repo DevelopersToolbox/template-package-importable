@@ -47,10 +47,10 @@ This package template does NOT provide any cli functionality but instead is desi
 
 We decided to make this available along with our other tools to allow people to use a well engineered starting point when creating their own tools.
 
-We also proide 2 other templates which we use.
+We also provide 2 other templates which we use.
 
 - [template python project](https://github.com/DevelopersToolbox/template-python-project)
-- [template package importable](https://github.com/DevelopersToolbox/template-package-importable)
+- [template package cli](https://github.com/DevelopersToolbox/template-package-cli)
 
 ## Features
 
