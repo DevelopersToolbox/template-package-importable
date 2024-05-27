@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 <p align="center">
     <a href="https://github.com/DevelopersToolbox/">
-        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/developerstoolbox/black-and-white-circle-256.png" alt="GreyTeamToolbox logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/developerstoolbox/black-and-white-circle-256.png" alt="DevelopersToolbox logo" />
     </a>
     <br />
     <a href="https://github.com/DevelopersToolbox/template-package-importable/actions/workflows/cicd.yml">
@@ -39,9 +39,6 @@
 </p>
 
 ## Overview
-
-## Overview
-
 
 This is the package template that we use internally when creating new python based importable packages. It has all of the basic functionality and workflows needed to create,
 build and publish new package to [PyPI](https://pypi.org/).
