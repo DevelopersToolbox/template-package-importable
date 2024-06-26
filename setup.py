@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.template-package-importable',
-    version='0.1.1',
+    version='0.1.2',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
     description='A basic package template for importable packages.',
