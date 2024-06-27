@@ -3,8 +3,8 @@ message: If you use this software, please cite it using these metadata.
 title: Template Importable Python Package
 abstract: A basic template package template for importable packages.
 type: software
-version: 0.1.2
-date-released: 2024-06-26
+version: 0.1.3
+date-released: 2024-06-27
 repository-code: https://github.com/DevelopersToolbox/template-package-importable
 keywords:
   - "Wolf Software"

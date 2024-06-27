@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.template-package-importable',
-    version='0.1.2',
+    version='0.1.3',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
     description='A basic package template for importable packages.',
@@ -28,7 +28,7 @@ setup(
 
     project_urls={
         ' Source': 'https://github.com/DevelopersToolbox/template-package-importable',
-        ' Tracker': 'https://github.com/wDevelopersToolbox/template-package-importable/issues/',
+        ' Tracker': 'https://github.com/DevelopersToolbox/template-package-importable/issues/',
         ' Documentation': 'https://github.com/DevelopersToolbox/template-package-importable',
         ' Sponsor': 'https://github.com/sponsors/WolfSoftware',
     },
